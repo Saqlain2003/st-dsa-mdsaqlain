@@ -1,4 +1,4 @@
-//Question 1
+package Day4;//Question 1
 /*import java.util.*;
 class Arrays
 {
@@ -107,6 +107,7 @@ class Arrays
     {
         int arr[]=new int[10];
         Scanner sc=new Scanner(System.in);
+        sc.close();
         System.out.println("enter element of array:");
         for(int i=0;i<arr.length;i++)
         {

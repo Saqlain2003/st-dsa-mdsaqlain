@@ -1,8 +1,7 @@
 package Day5;
-
 import java.util.*;
 import java.util.Arrays;
-import java.util.Collections;
+//import java.util.Collections;
 class sorting1
 {
     //Find the index of the minimum element from an array
@@ -117,6 +116,7 @@ class sorting1
             System.out.print(i+" ");
         }
     }
+    
     public static void main(String[] args)
     {
         int arr[]=new int[5];
